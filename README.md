@@ -12,7 +12,7 @@ The project combines **Python (EDA + visualization)** and **SQL (query-based ins
 
 ---
 
-## 📊 Analysis Highlights
+## Analysis Highlights
 
 ### 1. Descriptive Statistics
 - Min, max, mean, median, standard deviation of closing price.  
