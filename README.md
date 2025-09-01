@@ -7,7 +7,7 @@ The project combines **Python (EDA + visualization)** and **SQL (query-based ins
 
 ## Tech Stack
 - **Python**: Pandas, NumPy, Matplotlib, CleaningBox  
-- **SQL**: SQLite (queried inside Jupyter)  
+- **SQL**: SQLite (queried inside Jupyter, while combining with Python to execute each query)  
 - **Jupyter Notebook** for workflow + reporting  
 
 ---
